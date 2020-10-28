@@ -1,10 +1,10 @@
 ### _✨Welcome to my Github!✨_
 
-## 😁 About me:
+## About me:
 
 I am an undergradute at Salisbury University seeking a BS in Computer Science 💻  with hopes of seeking a MS in Cyber Security 💻 . My expected graduation is in Fall 2021 🎉.
 
-### 📚 Currently Enrolled in (Related to Computer Science):
+### Currently Enrolled in (Related to Computer Science):
 
   - COSC420 Hi-Performance Computing
   - COSC450 Operating Systems
@@ -28,7 +28,7 @@ I am an undergradute at Salisbury University seeking a BS in Computer Science �
   - 🎮 Playing video games 🎮
   - 🏈 Watching (and sometimes playing) Sports 🏈
   
-### 📫 How to reach me:
+### How to reach me:
   - Email: samdish98@gmail.com
   - Instagram: https://www.instagram.com/diiiish_7
   - LinkedIn: https://www.linkedin.com/in/sam-disharoon-966b811b6
