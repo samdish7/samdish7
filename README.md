@@ -5,21 +5,24 @@
 I am an undergradute at Salisbury University seeking a BS in Computer Science 💻  with hopes of seeking a MS in Cyber Security 💻 . My expected graduation is in Fall 2021 🎉.
 
 ### 📚 Currently Enrolled in (Related to Computer Science):
-  -COSC420 Hi-Performance Computing
-  -COSC450 Operating Systems
-  -COSC426 Software Engineering II
+
+  - COSC420 Hi-Performance Computing
+  - COSC450 Operating Systems
+  - COSC426 Software Engineering II
 
 ## Languages Used:
-  -C/C++ (Strongest 💪)
-  -Java
-  -Python
-  -Shell
-  -PHP
-  -MYSQL
-  -CSS
-  -HTML
+
+  - C/C++ (Strongest 💪)
+  - Java
+  - Python
+  - Shell
+  - PHP
+  - MYSQL
+  - CSS
+  - HTML
 
 ### My hobbies include:
+
   - 💪 Lifting weights 💪
   - 🐟 Fishing 🐟
   - 🎮 Playing video games 🎮
