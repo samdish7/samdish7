@@ -29,8 +29,7 @@ I am an undergradute at Salisbury University seeking a BS in Computer Science �
   - 🏈 Watching (and sometimes playing) Sports 🏈
   
 ### 📫 How to reach me:
-  - Email (school): sdisharoon1@gulls.salisbury.edu
-  - Email (personal): samdish98@gmail.com
+  - Email: samdish98@gmail.com
   - Instagram: https://www.instagram.com/diiiish_7
   - LinkedIn: https://www.linkedin.com/in/sam-disharoon-966b811b6
   
