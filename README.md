@@ -26,7 +26,7 @@ I am an undergradute at Salisbury University seeking a BS in Computer Science �
   - 💪 Lifting weights 💪
   - 🐟 Fishing 🐟
   - 🎮 Playing video games 🎮
-  - Watching (and sometimes playing) Sports 🎮
+  - 🏈 Watching (and sometimes playing) Sports 🏈
   
 ### 📫 How to reach me:
   - Email (school): sdisharoon1@gulls.salisbury.edu
