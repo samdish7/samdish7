@@ -24,7 +24,7 @@ My expected graduation is in Fall 2021 🎉
 
 ### My hobbies include:
 
-  - 💪 Weight-lifting 💪
+  - 💪 Weightlifting 💪
   - 🐟 Fishing 🐟
   - 🎮 Playing video games 🎮
   - 🏈 Watching (and sometimes playing) Sports 🏈
