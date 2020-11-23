@@ -21,7 +21,12 @@ My expected graduation is in Fall 2021 🎉
   - MYSQL
   - CSS
   - HTML
-
+  - XML
+  
+## Platforms Used:
+  - Android Studio
+  - Jupyter Notebook (Very briefly)
+  
 ### My hobbies include:
 
   - 💪 Weightlifting 💪
