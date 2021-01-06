@@ -7,9 +7,7 @@ My expected graduation is in Fall 2021 🎉
 
 ### Currently Enrolled in (Related to Computer Science):
 
-  - COSC420 Hi-Performance Computing
-  - COSC450 Operating Systems
-  - COSC426 Software Engineering II
+  - MATH306 Linear Algebra
 
 ## Languages Used:
 
