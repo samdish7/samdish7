@@ -9,9 +9,9 @@ My expected graduation is in Fall 2021 🎉
 
   - MATH306 Linear Algebra
 
-## Tutoring Hours:
-  - Tuesday 9am - 11am (Guerrieri Academic Commons' Math Emporium)
-  - Tuesday 2pm - 3:40pm (Henson Science Hall 143 Lab Assistant)
+## Tutoring Hours (As a lab assistant):
+  - Tuesday 2pm - 3:40pm 
+  - Thursday 8am - 9:40am
 
 ## Languages Used:
 
