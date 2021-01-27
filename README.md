@@ -9,7 +9,7 @@ My expected graduation is in Fall 2021 🎉
 
   - MATH306 Linear Algebra
 
-## Tutoring Hours (As a lab assistant):
+## Tutoring Hours (As a lab assistant for COSC117):
   - Tuesday 2pm - 3:40pm 
   - Thursday 8am - 9:40am
 
