@@ -27,6 +27,7 @@ My expected graduation is in Fall 2021 🎉
   
 ## Platforms Used:
   - Android Studio
+  - Eclipse
   - Jupyter Notebook (Very briefly)
   
 ### My hobbies include:
