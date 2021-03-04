@@ -27,6 +27,7 @@ My expected graduation is in Fall 2021 🎉
   
 ## Platforms Used:
   - Android Studio
+  - MPICC (Parallel Programming)
   - Eclipse
   - Jupyter Notebook (Very briefly)
   
