@@ -7,11 +7,15 @@ My expected graduation is in Fall 2021 🎉
 
 ### Currently Enrolled in (Related to Computer Science):
 
-  - MATH306 Linear Algebra
+  - COSC 311 Introduction to Data Visualization and Interpretation
 
-## Tutoring Hours (As a lab assistant for COSC117):
-  - Tuesday 2pm - 3:40pm 
-  - Thursday 8am - 9:40am
+## Tutoring Hours (Math Emporium AC 201):
+  - Monday 4pm - 6pm
+  - Tuesday 1pm - 3pm 
+  - Wednesday 3pm - 5pm
+
+## SI Sessions for COSC 117:
+  - TBD
 
 ## Languages Used:
 
@@ -29,7 +33,7 @@ My expected graduation is in Fall 2021 🎉
   - Android Studio
   - MPICC (Parallel Programming)
   - Eclipse
-  - Jupyter Notebook (Very briefly)
+  - Jupyter Notebook
   
 ### My hobbies include:
 
