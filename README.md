@@ -9,7 +9,7 @@ My expected graduation is in Fall 2021 🎉
 
   - COSC 311 Introduction to Data Visualization and Interpretation
 
-## Tutoring Hours (Math Emporium AC 201):
+## Tutoring Hours (Math Emporium):
   - Monday 4pm - 6pm
   - Tuesday 1pm - 3pm 
   - Wednesday 3pm - 5pm
