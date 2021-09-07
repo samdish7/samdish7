@@ -9,13 +9,14 @@ My expected graduation is in Fall 2021 🎉
 
   - COSC 311 Introduction to Data Visualization and Interpretation
 
-## Tutoring Hours (Math Emporium):
+## Tutoring Hours (Academic Commons 201):
   - Monday 4pm - 6pm
   - Tuesday 1pm - 3pm 
   - Wednesday 3pm - 5pm
 
-## SI Sessions for COSC 117:
-  - TBD
+## SI Sessions for COSC 117 (Academic Commons 262):
+  - Tuesday 5pm - 6:30pm
+  - Thursday 4pm - 5:30pm
 
 ## Languages Used:
 
