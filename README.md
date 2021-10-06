@@ -46,7 +46,6 @@ My expected graduation is in Fall 2021 🎉
   - Instagram: https://www.instagram.com/diiiish_7
   - LinkedIn: https://www.linkedin.com/in/sam-disharoon-966b811b6
   
-  _✨ Thank you for visting my page! Feel free to contact me with any questions or collaboration ideas! ✨_
   
 #### Disclaimer :rotating_light:
   
@@ -59,5 +58,7 @@ My expected graduation is in Fall 2021 🎉
 ## Contribution Graph :chart_with_upwards_trend:
 
 [![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=samdish7&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+_✨ Thank you for visting my page! Feel free to contact me with any questions or collaboration ideas! ✨_
 
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
