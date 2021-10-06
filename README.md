@@ -6,7 +6,6 @@ I am an undergradute at Salisbury University seeking a BS in Computer Science wi
 My expected graduation is in Fall 2021 🎉
 
 ### Currently Enrolled in (Related to Computer Science):
-
   - COSC 311 Introduction to Data Visualization and Interpretation
 
 ## Tutoring Hours (Academic Commons 201):
@@ -19,7 +18,6 @@ My expected graduation is in Fall 2021 🎉
   - Thursday 4pm - 5:30pm
 
 ## Languages Used:
-
   - C/C++ (Strongest 💪)
   - Java
   - Python
@@ -34,7 +32,7 @@ My expected graduation is in Fall 2021 🎉
   - Android Studio
   - MPICC (Parallel Programming)
   - Eclipse
-  - Jupyter Notebook
+  - Jupyter Notebook/Jupyter Labs
   
 ### My hobbies include:
 
@@ -50,9 +48,11 @@ My expected graduation is in Fall 2021 🎉
   
   _✨ Thank you for visting my page! Feel free to contact me with any questions or collaboration ideas! ✨_
   
-  #### Disclaimer
+#### Disclaimer
   
   All of my work is for **REFERENCE ONLY**.  I do not condone the act of cheating or any type of academic dishonesty. In short, you can use my work as reference, but do/submit your own work 😄.
+
+![Visitor Count](https://profile-counter.glitch.me/{samdish7}/count.svg)
 
 [![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=samdish7&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
