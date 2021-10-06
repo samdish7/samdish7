@@ -53,4 +53,5 @@ My expected graduation is in Fall 2021 🎉
   #### Disclaimer
   
   All of my work is for **REFERENCE ONLY**.  I do not condone the act of cheating or any type of academic dishonesty. In short, you can use my work as reference, but do/submit your own work 😄.
-  
+
+[](https://github.com/samdish7/samdish7/blob/main/waves.svg) 
