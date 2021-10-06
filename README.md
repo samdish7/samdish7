@@ -54,4 +54,6 @@ My expected graduation is in Fall 2021 🎉
   
   All of my work is for **REFERENCE ONLY**.  I do not condone the act of cheating or any type of academic dishonesty. In short, you can use my work as reference, but do/submit your own work 😄.
 
+[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=samdish7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
