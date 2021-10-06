@@ -8,7 +8,7 @@ My expected graduation is in Fall 2021 🎉
 ### Currently Enrolled in (Related to Computer Science):
   - COSC 311 Introduction to Data Visualization and Interpretation
 
-## Tutoring Hours (Academic Commons 201):
+## Tutoring Hours (Academic Commons 201) :pen::
   - Monday 4pm - 6pm
   - Tuesday 1pm - 3pm 
   - Wednesday 3pm - 5pm
@@ -21,7 +21,7 @@ My expected graduation is in Fall 2021 🎉
   - C/C++ (Strongest 💪)
   - Java
   - Python
-  - Shell
+  - Shell scripting
   - PHP
   - MYSQL
   - CSS
@@ -48,11 +48,15 @@ My expected graduation is in Fall 2021 🎉
   
   _✨ Thank you for visting my page! Feel free to contact me with any questions or collaboration ideas! ✨_
   
-#### Disclaimer
+#### Disclaimer :rotating_light:
   
   All of my work is for **REFERENCE ONLY**.  I do not condone the act of cheating or any type of academic dishonesty. In short, you can use my work as reference, but do/submit your own work 😄.
 
+## Visitor Counter :eyes:
+
 ![Visitor Count](https://profile-counter.glitch.me/{samdish7}/count.svg)
+
+## Contribution Graph :chart_with_upwards_trend:
 
 [![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=samdish7&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
