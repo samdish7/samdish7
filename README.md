@@ -2,20 +2,7 @@
 
 ## About me:
 
-I am an undergradute at Salisbury University seeking a BS in Computer Science with hopes of seeking a MS in Cyber Security 💻 
-My expected graduation is in Fall 2021 🎉
-
-### Currently Enrolled in (Related to Computer Science):
-  - COSC 311 Introduction to Data Visualization and Interpretation
-
-## Tutoring Hours (Academic Commons 201) :pen::
-  - Monday 4pm - 6pm
-  - Tuesday 1pm - 3pm 
-  - Wednesday 3pm - 5pm
-
-## SI Sessions for COSC 117 (Academic Commons 262):
-  - Tuesday 5pm - 6:30pm
-  - Thursday 4pm - 5:30pm
+B.S. in Computer Science, Salisbury University Alumni. 🥳
 
 ## Languages Used:
   - C/C++ (Strongest 💪)
