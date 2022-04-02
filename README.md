@@ -2,8 +2,8 @@
 
 ## About me:
 
-B.S. in Computer Science, Salisbury University Alumni. 🥳
-Software Engineer @ NSA :computer:
+- B.S. in Computer Science, Salisbury University Alumni. 🥳
+- Software Engineer @ NSA :computer:
 
 ## Languages Used:
   - C/C++ (Strongest 💪)
