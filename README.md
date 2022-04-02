@@ -3,6 +3,7 @@
 ## About me:
 
 B.S. in Computer Science, Salisbury University Alumni. 🥳
+Software Engineer @ NSA :computer:
 
 ## Languages Used:
   - C/C++ (Strongest 💪)
@@ -14,25 +15,15 @@ B.S. in Computer Science, Salisbury University Alumni. 🥳
   - CSS
   - HTML
   - XML
-  
-## Platforms Used:
-  - Android Studio
-  - MPICC (Parallel Programming)
-  - Eclipse
-  - Jupyter Notebook/Jupyter Labs
+  - CMake
+  - Qt
   
 ### My hobbies include:
 
   - 💪 Weightlifting 💪
   - 🐟 Fishing 🐟
   - 🎮 Playing video games 🎮
-  - 🏈 Watching (and sometimes playing) Sports 🏈
-  
-### How to reach me:
-  - Email: samdish98@gmail.com
-  - Instagram: https://www.instagram.com/diiiish_7
-  - LinkedIn: https://www.linkedin.com/in/sam-disharoon-966b811b6
-  
+  - 🏈 Watching (and sometimes playing) Sports 🏈 
   
 #### Disclaimer :rotating_light:
   
