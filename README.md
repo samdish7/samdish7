@@ -3,7 +3,7 @@
 ## About me:
 
 - B.S. in Computer Science, Salisbury University Alumni. 🥳
-- Software Engineer at a fun place 😉
+- Software Developer at a fun place 😉
 
 ## Languages Used:
   - C/C++ (Strongest 💪)
