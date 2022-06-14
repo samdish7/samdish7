@@ -23,11 +23,11 @@
   - 💪 Weightlifting 💪
   - 🐟 Fishing 🐟
   - 🎮 Playing video games 🎮
-  - 🏈 Watching (and sometimes playing) Sports 🏈 
+  - 🏈 Watching (and sometimes attempting to play) Sports 🏈 
   
 #### Disclaimer :rotating_light:
   
-  All of my work is for **REFERENCE ONLY**.  I do not condone the act of cheating or any type of academic dishonesty. In short, you can use my work as reference, but do/submit your own work 😄.
+  All of my work is for **REFERENCE ONLY**.  I do not condone the act of cheating or any type of academic dishonesty. In short, do/submit your own work 😄.
 
 ## Visitor Counter :eyes:
 
