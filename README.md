@@ -2,22 +2,10 @@
 
 ## About me:
 
-- B.S. in Computer Science, Salisbury University Alumni. 🥳
-- Software Developer
-- Nerd :)
-
-## Languages Used:
-  - C/C++ (Strongest 💪)
-  - Java
-  - Python
-  - Shell scripting
-  - PHP
-  - MYSQL
-  - CSS
-  - HTML
-  - XML
-  - CMake
-  - Qt
+* B.S. in Computer Science, Salisbury University Alumni. 🥳
+* Software Engineer for the DoD :military_helmet:
+* Nerd :nerd_face:
+* _'Coding'_ since 2016 and still live on [stackoverflow](https://stackoverflow.com) :triumph:
   
 ### My hobbies include:
 
