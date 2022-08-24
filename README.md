@@ -24,7 +24,7 @@
 
 ## Contribution Graph :chart_with_upwards_trend:
 
-![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=samdish7&theme=react-dark)(https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=samdish7&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 _✨ Thank you for visting my page! Feel free to contact me with any questions or collaboration ideas! ✨_
 
