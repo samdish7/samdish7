@@ -3,7 +3,7 @@
 ## About me:
 
 * B.S. in Computer Science, Salisbury University Alumni. 🥳
-* Software Engineer for the DoD :military_helmet:
+* Software Developer :)
 * Nerd :nerd_face:
 * _'Coding'_ since 2016 and still live on [stackoverflow](https://stackoverflow.com) :triumph:
 
@@ -16,9 +16,8 @@
   - 🎮 Playing video games 🎮
   - 🏈 Watching (and sometimes attempting to play) Sports 🏈 
   
-#### Disclaimer :rotating_light:
-  
-  All of my work is for **REFERENCE ONLY**.  I do not condone the act of cheating or any type of academic dishonesty. In short, do/submit your own work 😄.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samdish7&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=samdish7&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Visitor Counter :eyes:
 
