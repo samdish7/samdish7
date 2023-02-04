@@ -6,6 +6,8 @@
 * Software Engineer for the DoD :military_helmet:
 * Nerd :nerd_face:
 * _'Coding'_ since 2016 and still live on [stackoverflow](https://stackoverflow.com) :triumph:
+
+**CompTIA Security+ Certified 🥳**
   
 ### My hobbies include:
 
