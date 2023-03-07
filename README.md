@@ -2,19 +2,15 @@
 
 ## About me:
 
-* B.S. in Computer Science, Salisbury University Alumni. 🥳
-* Software Developer :)
-* Nerd :nerd_face:
+* Software Developer 🥳
 * _'Coding'_ since 2016 and still live on [stackoverflow](https://stackoverflow.com) :triumph:
+* Huge Nerd :nerd_face:
 
-**CompTIA Security+ Certified 🥳**
-  
-### My hobbies include:
+## Academic/Professional Milestones :star_struck:
 
-  - 💪 Weightlifting 💪
-  - 🐟 Fishing 🐟
-  - 🎮 Playing video games 🎮
-  - 🏈 Watching (and sometimes attempting to play) Sports 🏈 
+* B.S. in Computer Science, Salisbury University Alumni.
+* Pursuing an M.S. in Computer Engineering at the Naval Post Graduate School. (Very Slowly :snail:)
+* **CompTIA Security+ Certified**
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samdish7&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=samdish7&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
